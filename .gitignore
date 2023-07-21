@@ -1,0 +1,10 @@
+# Arquivos gerados pela compilação
+*.o
+.vscode/
+*.layout
+
+Makefile.win
+
+TabelaHashing.dev
+
+*.exe
